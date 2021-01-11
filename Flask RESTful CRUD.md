@@ -1,3 +1,7 @@
+1. First install
+```
+pip install Flask-RESTful
+```
 ```py
 from flask import Flask, request
 from flask_restful import Resource, Api
